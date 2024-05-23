@@ -2,7 +2,7 @@
 A custom rom created for the VMOS app. Privacy-focused ROM, FOSS appstore and AOSP apps+design.
 
 # Download
-https://github.com/skydazsu/SharpROM-VMOS/releases/download/SharpROM/VMOS_SHARPROM_SHIPPING_GL1.0.5-202405221818.zip
+https://github.com/skydazsu/SharpROM-VMOS/releases/download/SharpROM/VMOS_SHARPROM_SHIPPING_GL1.0.6-202405222001.zip
 
 # Attention
 Please use this ROM only on VMOS 2.9.0 version as it has only been fully tested on that version. In the latest versions of VMOS, problems with root can occur.
